@@ -28,4 +28,6 @@
 
 </div><br/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorCabral01&layout=compact)](https://github.com/VictorCabral01/github-readme-stats)
+
 Desenvolvedor Front End apaixonado pelo mundo tecnológico.❤️
