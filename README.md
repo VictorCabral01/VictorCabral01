@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-sebasti%C3%A3o-souza-de-paiva-cabral-976081222/)
 <br/>
 
-![ Victor Cabral 01 GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorCabral01&show_icons=true&theme=radical)
+
 
 
 ### Minhas Tecnologias
